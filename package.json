@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "start": "tsc && node dist/index.js",
-    "server": "nodemon src/index.ts"
+    "server": "node src/index.ts"
   },
   "author": "Yuri Antishev",
   "license": "MIT",
